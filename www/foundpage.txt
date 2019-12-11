@@ -1,1 +1,2 @@
 静态博客hexo使用技巧 | https://www.simon96.online/2018/10/12/hexo-tutorial/
+静态博客hexo配置技巧 | https://io-oi.me/tech/hexo-next-optimization/#在本地安装-hexo
